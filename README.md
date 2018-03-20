@@ -1,2 +1,1 @@
-# CWD
-Concealed Weapon Detection
+# Concealed_weapon_detection
